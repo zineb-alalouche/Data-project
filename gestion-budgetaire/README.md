@@ -36,4 +36,4 @@ The analysis is based on **archived historical data (2005–2021)**, extracted a
 
 ## 📷 Screenshots
 
-
+![dahsboard predection](/home/probook/Documents/Projects/gestion-budgetaire/photos/dahsboard predection.png)
