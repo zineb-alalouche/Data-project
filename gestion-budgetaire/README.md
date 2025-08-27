@@ -35,5 +35,5 @@ The analysis is based on **archived historical data (2005–2021)**, extracted a
 - Supports construction companies in **budget optimization and project cost management**.  
 
 ## 📷 Screenshots
-(Add here some images of your Streamlit dashboard and sample charts)
+
 
