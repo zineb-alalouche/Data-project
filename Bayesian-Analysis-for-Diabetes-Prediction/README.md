@@ -34,6 +34,6 @@
 
 📷 **Analyse**
 
-![DIabetes1](/home/probook/Documents/Projects/Bayesian-Analysis-for-Diabetes-Prediction/photos/DIabetes1.png)
+![DIabetes1](./photos/DIabetes1.png)
 
-![Diabets2](/home/probook/Documents/Projects/Bayesian-Analysis-for-Diabetes-Prediction/photos/Diabets2.png)
+![Diabets2](./photos/Diabets2.png)
