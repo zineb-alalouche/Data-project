@@ -34,7 +34,7 @@ The analysis is based on **archived historical data (2005–2021)**, extracted a
 - Interactive dashboard providing insights into **price evolution and revision rates**.  
 - Supports construction companies in **budget optimization and project cost management**.  
 
-## 📷 Screenshots
+## 📷 Interface
 
 ![dashboard1](./photos/dashboard1.png)
 
