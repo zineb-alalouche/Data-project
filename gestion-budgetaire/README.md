@@ -36,4 +36,6 @@ The analysis is based on **archived historical data (2005–2021)**, extracted a
 
 ## 📷 Screenshots
 
+![dashboard1](./photos/dashboard1.png)
+
 ![dahsboard predection](./photos/dahsboardPredection.png)
